@@ -6,5 +6,6 @@ elif inp =='no':
     inp = input('Are you thirsty')
     if inp =='yes':
         print('Drink Coke')
+        print('Drink Water')
     else:
         print('learn python')
